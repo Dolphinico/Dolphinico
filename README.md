@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Dolphinico
 - 👀 I’m interested in Web-applicatons
-- 🌱 I’m currently learning Python + Django
+- 🌱 I’m currently learning Python + Django + Flask
